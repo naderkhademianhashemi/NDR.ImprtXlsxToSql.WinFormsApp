@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImprtXlsxToSql.WinFormsApp", "ImprtXlsxToSql.WinFormsApp\ImprtXlsxToSql.WinFormsApp.csproj", "{F947054C-5A6D-48F1-8AF6-8123D02DD134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSRC", "RSRC\RSRC.csproj", "{66FA457A-D445-472A-A77D-C9BF9B021911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F947054C-5A6D-48F1-8AF6-8123D02DD134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F947054C-5A6D-48F1-8AF6-8123D02DD134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F947054C-5A6D-48F1-8AF6-8123D02DD134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F947054C-5A6D-48F1-8AF6-8123D02DD134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FA457A-D445-472A-A77D-C9BF9B021911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FA457A-D445-472A-A77D-C9BF9B021911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FA457A-D445-472A-A77D-C9BF9B021911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FA457A-D445-472A-A77D-C9BF9B021911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB7A2DD2-C013-4FDF-A310-AD5C596692F4}
+	EndGlobalSection
+EndGlobal
